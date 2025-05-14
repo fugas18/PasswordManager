@@ -22,3 +22,7 @@ tkinter (usually pre-installed)
 cryptography (pip install cryptography)
 
 pyperclip (pip install pyperclip)
+
+## Notes
+If the key or data file is corrupted or lost, it will not be possible to recover the passwords.
+The master password is essential for accessing the program. If forgotten, there is no way to recover it.
